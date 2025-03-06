@@ -5,7 +5,7 @@ import App from "./App";
 // import Home from "./routes/Home";
 const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
-
+cvtewjcvaefuivn,jqadsbcdghSJKeb śl̥ṁ;
 root.render(
   <BrowserRouter>
     <App/>
